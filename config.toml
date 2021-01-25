@@ -1,0 +1,4 @@
+baseURL = "https://quotestodayjuki.vercel.app"
+languageCode = "en-us"
+title = "Quotes For Today World"
+theme = "tale-hugo-master"
